@@ -1,4 +1,5 @@
 # Akash Says
-print("Hello From Linux : )")
-#Somesh says
-print("Hello From Somesh's mac")
+print("Hello From Akash's Linux : )")
+
+#Somesh Says
+print("Hello From Somesh's Mac")
